@@ -10,4 +10,4 @@ This application allows the user to track time-sensitive tasks. The user can typ
 
 The purpose of creating this application was to practice using React. This application uses many important React concepts, including components, props, and states. 
 
-I wrote this application by following along with [Traversy Media's 2021 React Crash Course](https://github.com/bradtraversy/react-crash-2021). 
+I wrote this application by following along with [Traversy Media's 2021 React Crash Course](https://github.com/bradtraversy/react-crash-2021).
